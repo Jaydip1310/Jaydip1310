@@ -26,22 +26,16 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/ChanchalRaj/ChanchalRaj/main/dna.gif" />
 
-```
-class RTLDesignEngineer:
-    def __init__(self):
-        self.name        = "Jaydip Chauhan"
-        self.role        = "FPGA RTL Design Engineer"
-        self.education   = "M.Sc. Physics (Electronics)"
-        self.location    = "Gujarat, India"
-        self.languages   = ["Verilog", "SystemVerilog", "C", "Python", "TCL"]
-        self.focus       = ["RTL Design", "USB 2.0/3.0", 
-                             "Timing Closure", "Verification"]
+<table>
+<tr><td width="140"><b>Name</b></td><td>Jaydip Chauhan</td></tr>
+<tr><td><b>Role</b></td><td>FPGA RTL Design Engineer</td></tr>
+<tr><td><b>Education</b></td><td>M.Sc. Physics (Electronics)</td></tr>
+<tr><td><b>Location</b></td><td>Gujarat, India</td></tr>
+<tr><td><b>Languages</b></td><td>Verilog · SystemVerilog · C · Python · TCL</td></tr>
+<tr><td><b>Focus</b></td><td>RTL Design · USB 2.0/3.0 · Timing Closure · Verification</td></tr>
+</table>
 
-    def philosophy(self):
-        return "Physics teaches you how systems actually behave — 
-                 FPGA design teaches you how to make them behave 
-                 on purpose."
-```
+> *"Physics teaches you how systems actually behave — FPGA design teaches you how to make them behave on purpose."*
 
 I'm an **FPGA RTL Design Engineer** building high-speed digital hardware at the register-transfer level, with a foundation in **semiconductor physics** that most engineers coming from a pure CS/EE-coursework background simply don't have.
 
