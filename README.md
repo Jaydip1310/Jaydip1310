@@ -289,13 +289,6 @@ Open To:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydipchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=6d28d9&text_color=e9d5ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydipchauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=e9d5ff" width="42%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipchauhan&theme=tokyonight&hide_border=true&background=0f0524&stroke=6d28d9&ring=A78BFA&fire=A78BFA&currStreakLabel=e9d5ff" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydipchauhan&theme=tokyo-night&hide_border=true&bg_color=0f0524&color=A78BFA&line=6d28d9&point=e9d5ff" width="90%"/>
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
