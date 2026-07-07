@@ -272,20 +272,8 @@ Open To:
 
 <br/>
 
-## `09` &nbsp;Certifications
 
-<table>
-<tr><th align="left">Provider</th><th align="left">Status</th></tr>
-<tr><td><b>NPTEL</b></td><td>In Progress</td></tr>
-<tr><td><b>Cisco</b></td><td>In Progress</td></tr>
-<tr><td><b>Microchip</b></td><td>In Progress</td></tr>
-<tr><td><b>Intel FPGA</b></td><td>In Progress</td></tr>
-<tr><td><b>Xilinx / AMD</b></td><td>In Progress</td></tr>
-</table>
-
-<br/>
-
-## `10` &nbsp;GitHub Analytics
+## `09` &nbsp;GitHub Analytics
 
 <div align="center">
 
